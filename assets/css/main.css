@@ -2631,3 +2631,15 @@ input, select, textarea {
 				}
 
 	}
+
+/* For portfolio items */
+.item a:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s;
+}
+
+/* For buttons */
+.button:hover {
+    background-color: #ff7e5f; /* Adjust color to fit your design */
+    transition: background-color 0.3s;
+}
