@@ -1,40 +1,31 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Projects WP
 
+![Portfolio logo](images/188f9e6b26f94ed191d3f5b8922be4c2(1).png)
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This repository hosts the source code for an analytics and business intelligence portfolio website, demonstrating data analytics projects, articles, and more about the portfolio owner.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+## Features
 
-http://ineedchemicalx.deviantart.com/
+- Intuitive navigation to different sections: Intro, Portfolio, About Me, Articles, and Contact.
+- Direct links to LinkedIn, Email, and Github profiles.
+- An extensive portfolio section displaying various data analytics projects with links to detailed slides and repositories.
+- A curated list of articles published by the portfolio owner.
+- Detailed information about the portfolio owner's professional experience, skills, and significant projects.
+- A dedicated contact section for reaching out.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+## Dependencies
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+- The design is based on "Prologue" by HTML5 UP.
+- All necessary assets and stylesheets are included in the assets folder.
 
-(* = Not included)
+## Contributing
 
-AJ
-aj@lkn.io | @ajlkn
+Pull requests are welcome. Please ensure that any direct edits maintain the website's general style and functionality.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## License
 
+This project is free for personal and commercial use under the CCA 3.0 license. More details can be found here: https://html5up.net/license.
 
-Credits:
+## Contact & Support
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to reach out via the contact section on the website or through the provided email and social media links. Feedback, suggestions, and contributions are always appreciated! Thank you.
